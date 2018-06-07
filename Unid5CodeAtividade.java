@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 
 /**
  *
- * @author igoor
+ * @author igor
  */
 public class Unid5CodeAtividade {
 
